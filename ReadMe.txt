@@ -1,6 +1,6 @@
 主程式 -> ship_surrounding.py
 
-Messege_monitor Boat_Controller物件 -> Missionplanner_utils.py
+Messege_monitor, Boat_Controller物件 -> Missionplanner_utils.py
 
 路徑演算法 -> Multi_ship_planner_v1.py, ship_navigation_v1.py
 
